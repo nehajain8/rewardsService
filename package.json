@@ -1,0 +1,16 @@
+{
+  "name": "customer_rewards_app",
+  "version": "1.0.0",
+  "description": "Generate rewards list of eligible customer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "jest": "^27.0.6"
+  }
+}
